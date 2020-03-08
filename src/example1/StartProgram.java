@@ -7,7 +7,7 @@ package example1;
  * unless you spend hours reading super class documentation. And it's not
  * uncommon to inherit hundreds or even thousands of methods. That's a lot of
  * documentation!
- * <p>
+ *
  * So what do most people do? They just use a small portion of what they
  * inherit, without change, or they override the original implementation. Well
  * that sounds reasonable, doesn't it? Problem is both choices may produce
