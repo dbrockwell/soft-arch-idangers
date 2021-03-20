@@ -1,13 +1,13 @@
-package example3;
+package edu.wctc.example3;
 
 import javax.swing.*;
 
-/**
+/*
  * This is the start class for example3. Notice that it falsely concludes that a
  * 5-year-old dog is elderly. Why? See the Dog and Labrador documentation for an
  * explanation.
  */
-public class StartProgram {
+public class Main {
 
     public static void main(String[] args) {
         Labrador lab = new Labrador();
