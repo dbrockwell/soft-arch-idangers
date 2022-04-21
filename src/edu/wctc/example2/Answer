@@ -1,0 +1,5 @@
+There was an error because the entered message was blank
+
+it is saying that because the variable has to be created first and then left blank for the .isBlank() to read it as blank.
+
+Making a speakable interface would help where there could be a [mute] default variable.

@@ -1,0 +1,5 @@
+Both subclasses fo cat and MuteDog were both blank, so they both defaulted to "[mute}."
+
+Both the Dog and Duck subclasses both override the speak by printing it to system but it printed it out without it being set to the animal, which the setSpokenMessage in the animal class would do.
+
+The designer of this should use an interface for speakable and have the spoken word be set to setSpokenMessage.

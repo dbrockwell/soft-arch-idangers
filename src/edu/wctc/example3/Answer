@@ -1,0 +1,5 @@
+The problem in the program is that the dog superclass is multiplying years by 15 and not by 7 making the number too large.
+
+The error was make in the dog class
+
+The document says that to prevent this error is to make the getAdjustedAge method abstract, or make dog class an interface.
